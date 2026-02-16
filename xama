@@ -119,7 +119,7 @@ local function moveCharacter(character)
 
 	doEAction()
 
-	countdown(24)
+	countdown(19)
 
 	teleportToRandomServer()
 end
